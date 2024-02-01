@@ -1,0 +1,1 @@
+print("Vladyslav Bezborodov, KN_Group_2")
